@@ -1,4 +1,4 @@
 # AI and Deep Learning
 ## AI
-### ANN
-### CNN
+### 1. ANN
+### 2. CNN
